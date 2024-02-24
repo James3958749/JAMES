@@ -1,0 +1,6 @@
+ID,Title,MIN,Metric,MAX,Repeat,Type,Hours,Tool,Equiment,Part,Skill Codes
+F1,Replace wheel washer,0.1,100,0.1,100,Replace,100,1x1|2x1,0,1x5,1|2
+F2,Structural Fix on wing spar,0.2,500,0,0,Replace,200,3x1|4x1,1,2x1|3x8,1|3|4
+F3,Inspect redesigned wing spar,0.1,1000,0.1,1000,Inspect,1,5x1,0,0x0,1|3
+C1,Replace front wheel,0.01,365,0.01,365,Replace,2,1x1|2x1,0,4x2,1|2
+C2,Inspect rubber on bay 12 seal,0.1,730,0.1,730,Inspect,0.5,0x0,2,0x0,1|5
